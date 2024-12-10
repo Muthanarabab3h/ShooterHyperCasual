@@ -14,7 +14,6 @@
 ---
 
 ## 🛠️ **Tech Stack**
-- **Game Engine**: Unity (Version 2021 and updated for compatibility in 2024)
 - **Programming Language**: C#
 - **Platform**: Multi-platform (Mobile and Desktop)
 
