@@ -36,8 +36,8 @@ Check out the latest gameplay video of **Shooter Hyper-Casual**:
 Feel free to fork, star, and open pull requests to contribute to this project. Feedback and suggestions are welcome!
 
 ## Links
-- [Gameplay Video]([https://youtube.com/shorts/77efRqT72zk?feature=share](https://www.youtube.com/watch?v=TL5WgM-tjpk))
-- [GitHub Repository](https://github.com/Muthanarabab3h/ShooterHyperCasual)
+[- [Gameplay Video]([https://youtube.com/shorts/77efRqT72zk?feature=share](https://www.youtube.com/watch?v=TL5WgM-tjpk))
+](https://www.youtube.com/watch?v=TL5WgM-tjpk)- [GitHub Repository](https://github.com/Muthanarabab3h/ShooterHyperCasual)
 
 
 https://github.com/user-attachments/assets/1ec3c1e5-a65f-4794-bedd-a48e8261d489
