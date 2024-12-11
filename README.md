@@ -1,33 +1,44 @@
-# ShooterHyperCasual 🎮
+# Shooter Hyper-Casual
 
-**ShooterHyperCasual** is an action-packed, hyper-casual game designed to deliver quick and thrilling gameplay experiences. This repository contains the complete source code and assets for the project, showcasing engaging shooting mechanics, vibrant visuals, and seamless performance for players of all skill levels.
+**Shooter Hyper-Casual** is an immersive and action-packed game that combines strategic inventory mechanics with fast-paced shooting gameplay. Take control of your player, collect coins, eliminate enemies, and utilize throwable items like TNT and coins to navigate and dominate the battlefield.
 
----
+## Features
+- **Inventory System**: Manage throwable items (TNT and Coins) with an intuitive drag-and-drop system.
+- **Throwable Mechanics**:
+  - TNT: Throws TNT that explodes after a delay, destroying all enemies within a radius.
+  - Coins: Collect and throw coins strategically for added fun and utility.
+- **Combat System**: Shoot enemies and survive waves of challenges.
+- **Dynamic UI**: Updates health and coin counters in real-time.
+- **Game Over Mechanic**: Lose menu activates when health reaches zero.
+- **Explosive Effects**: Visually appealing explosions for TNT throws.
+- **Smooth Controls**: Drag-and-drop inventory and joystick-based movement for seamless gameplay.
 
-## 📜 **Features**
-- **Dynamic Shooting Gameplay**: Intuitive controls for fast-paced action.
-- **Challenging Levels**: Strategically designed stages with increasing difficulty.
-- **Smooth Mechanics**: Optimized for smooth performance across various devices.
-- **Reward System**: Collect coins, defeat enemies, and unlock new upgrades.
-- **Stylish Visuals**: Clean and immersive art style for a captivating experience.
+## Latest Updates
+- Added TNT mechanics with an explosion effect and enemy elimination within a radius.
+- Enhanced coin-throwing functionality with dynamic updates to the coin count.
+- Refined inventory system with drag-and-drop UI integration.
+- Game over functionality added to trigger a lose menu on player death.
+- Optimized UI to reflect real-time health and coin updates.
+- Polished the overall user experience and fixed multiple bugs.
 
----
+## Video Preview
+Check out the latest gameplay video of **Shooter Hyper-Casual**:
 
-## 🛠️ **Tech Stack**
-- **Programming Language**: C#
-- **Platform**: Multi-platform (Mobile and Desktop)
+[![Shooter Hyper-Casual Gameplay](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtube.com/shorts/77efRqT72zk?feature=share)
 
----
+## How to Play
+1. Navigate using the on-screen joystick.
+2. Manage inventory and use throwable items tactically.
+3. Survive waves of enemies and collect coins.
+4. Reach high scores and challenge yourself!
 
-## 📂 **Project Structure**
-- **Assets/**: Contains all game assets, including models, animations, UI, and scripts.
-- **Scripts/**: C# scripts for game mechanics, player controls, and enemy behavior.
-- **Scenes/**: Game levels and main menu designs.
-- **Prefabs/**: Reusable prefabs for characters, enemies, and obstacles.
+## Contribute
+Feel free to fork, star, and open pull requests to contribute to this project. Feedback and suggestions are welcome!
 
----
+## Links
+- [Gameplay Video]([https://youtube.com/shorts/77efRqT72zk?feature=share](https://www.youtube.com/watch?v=TL5WgM-tjpk))
+- [GitHub Repository](https://github.com/Muthanarabab3h/ShooterHyperCasual)
 
-## 🚀 **Getting Started**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Muthanarabab3h/ShooterHyperCasual.git
+
+https://github.com/user-attachments/assets/1ec3c1e5-a65f-4794-bedd-a48e8261d489
+
