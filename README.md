@@ -37,7 +37,8 @@ Feel free to fork, star, and open pull requests to contribute to this project. F
 
 ## Links
 ](https://www.youtube.com/watch?v=TL5WgM-tjpk)- [GitHub Repository](https://github.com/Muthanarabab3h/ShooterHyperCasual)
-
+https://muthanarababh.itch.io/shooter-hyper-casual
+https://www.linkedin.com/feed/update/urn:li:activity:7272644987614289920/
 
 https://github.com/user-attachments/assets/1ec3c1e5-a65f-4794-bedd-a48e8261d489
 
